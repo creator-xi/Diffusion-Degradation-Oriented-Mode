@@ -1,4 +1,4 @@
-# Diffusion Degradation Oriented Mode
+# Diffusion Degradation Oriented Model
 
 ## Environment
 <p>
