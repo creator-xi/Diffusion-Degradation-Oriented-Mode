@@ -1,0 +1,9 @@
+numpy
+scipy
+torchvision
+logging
+opencv-python
+tqdm
+blobfile
+pyYaml
+pillow
